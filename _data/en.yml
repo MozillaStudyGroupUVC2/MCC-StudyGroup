@@ -1,7 +1,7 @@
 ---
 whatWeDo: What We Do
 events: Events
-contact: Contact
+contact: Contact Us
 tellMeMore: Tell Me More
 
 activitiesSubheading: 'And you can, too!'
@@ -20,7 +20,6 @@ events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
 pastEvents: See Our Past Events
 
 notification: Want to be notified of our upcoming events?
@@ -38,6 +37,6 @@ contact: Talk To Us
 
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"
-interests: Interests
+interests: fields of interest
 
 codeOfConduct: Study Group Code of Conduct
