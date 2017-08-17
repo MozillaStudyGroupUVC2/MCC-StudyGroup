@@ -1,11 +1,9 @@
- name: Bill Mills
- degree: Mozilla Science Lab
+- name: Bill Mills
+  affiliation: TRIUMF
   github: BillMills
   interests:
-    - Dat
-    - GRIFFIN
-  - Interdisciplinary Programming
-    - Software Carpentry
+    - Programming
+- Open Science
 
 - name: Lemounes Nour El Imane Lamis
   affiliation: computer science 
