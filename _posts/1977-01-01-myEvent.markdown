@@ -1,10 +1,10 @@
 ---
-title: Make Your First Event
+title: kotlin programming language
 text: In order to make your first event, follow the instructions here.
-location: Your Location
+location: faculty of NTIC Constantine 2 
 link: https://github.com/mozillascience/studyGroup#how-to-set-up-your-own-mozilla-study-group-website
-date: 1977-01-01
-startTime: '20:00'
-endTime: '21:00'
+date: 2017-10-21
+startTime: '09:00'
+endTime: '12:30'
 
 ---
