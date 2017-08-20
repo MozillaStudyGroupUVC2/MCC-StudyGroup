@@ -1,6 +1,6 @@
 ---
 title: kotlin programming language
-text: In order to make your first event, follow the instructions here.
+text: a workshop about kotlin programming language for begginers this event aims to teach all the people intrested in andreod programing usig the new offecial programming language kotlin 
 location: faculty of NTIC Constantine 2 
 link: https://github.com/mozillascience/studyGroup#how-to-set-up-your-own-mozilla-study-group-website
 date: 2017-10-21
