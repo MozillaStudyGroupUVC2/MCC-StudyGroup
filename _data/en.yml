@@ -31,9 +31,9 @@ googleCalendar: 'If you use Google calendar, you can add our calendar by pressin
 iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDAR_ICAL_URL%">this address</a> into any calendar product that supports the iCal format.'
 
 sayHi: Come Say Hi
-contactSubheading: 'We use GitHub to get coding help, talk about events and share files. Join us there!'
-contact: Facebook page
-contact2: E-Mail
+contactSubheading: 'we use facebook to share our events and new updates, Join us there!'
+contact: Contact Us
+contact2: Facebook page
 
 teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"
