@@ -1,5 +1,5 @@
 ---
-title: A workshop about kotlin programming language for begginers.
+title: A workshop about kotlin programming language for begginers  
 text: follow us on facebook.
 location: faculty of NTIC Constantine 2 
 link: https://www.facebook.com/MCCUV2/
