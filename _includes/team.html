@@ -24,6 +24,7 @@
                         {% if member.facebook %}
                         <h4><a href="https://facebook.com/{{ member.facebook}}">{{ member.name }}</a></h4>
                         {% else %}
+                        <i class="fa fa-user"></i>
                         <h4>{{ member.name }}</h4>
                         {% endif %}
                         <p class="text-muted"><i>{{ member.affiliation }}</i></p>
